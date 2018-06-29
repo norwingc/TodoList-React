@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "expo": "^22.0.0",
+    "firebase": "^5.2.0",
+    "native-base": "^2.6.1",
     "react": "16.4.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.0.tar.gz"
   }
